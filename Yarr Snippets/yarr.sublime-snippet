@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+yarr(${1:route}, function(){
+	React.render(
+		<${2:component} />,
+		document.getElementById('${3:id}')
+	)
+});
+]]></content>
+    <tabTrigger>yarr</tabTrigger>
+    <scope>source.js</scope>
+    <description>Yarr route</description>
+</snippet>
+

@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+React.createClass({
+	render() {
+		return (
+			<div>
+				$1
+			</div>
+		);
+	}
+});
+]]></content>
+    <tabTrigger>rcomp</tabTrigger>
+    <scope>source.js</scope>
+    <description>Basic empty React component</description>
+</snippet>

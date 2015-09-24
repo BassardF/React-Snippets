@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+getInitialState() {
+   	return {$1};
+},
+]]></content>
+    <tabTrigger>rgis</tabTrigger>
+    <scope>source.js</scope>
+    <description>React getInitialState method</description>
+</snippet>
+

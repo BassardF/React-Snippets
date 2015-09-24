@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+componentWillReceiveProps(nextProp){
+	$1
+},
+]]></content>
+    <tabTrigger>rcwrp</tabTrigger>
+    <scope>source.js</scope>
+    <description>React componentWillReceiveProps method</description>
+</snippet>

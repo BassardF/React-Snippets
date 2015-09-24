@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+this.state.${1:array}.map((${2:item}, index) => {
+	return (
+		<div key={index}>
+		</div>
+	)
+});
+]]></content>
+    <tabTrigger>rmap</tabTrigger>
+    <scope>source.js</scope>
+    <description>React classic map loop</description>
+</snippet>
